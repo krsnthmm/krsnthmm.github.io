@@ -73,7 +73,7 @@ footer a:hover {
 
 footer img {
     width: 100%;
-    min-width: 100px;
+    max-width: 100px;
 }
 
 #menuIcon {
