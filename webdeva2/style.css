@@ -72,8 +72,8 @@ footer a:hover {
 }
 
 footer img {
-    width: 7.5%;
-    min-width: 75px;
+    width: 100%;
+    min-width: 100px;
 }
 
 #menuIcon {
